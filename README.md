@@ -1,0 +1,1 @@
+The aim of this project is to analyze the relationship between fuel poverty and crime rates in Leeds, providing valuable insights for the government and related departments to formulate more effective policies to reduce poverty and crime.
